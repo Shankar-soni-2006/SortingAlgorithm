@@ -1,0 +1,15 @@
+Need
+Bubble Sort, Insertion Sort, Selection Sort Time Complexity:-O(n^2)
+Arrays.sort() used the quick sort, merge sort in the backend O(n logn)
+
+
+
+##DUTCH FLAG ALGORITHM##
+1. Initialize three pointers low, mid and high to 0, 0 and n-1 respectively.
+2. Traverse the array from start to end using the mid pointer.
+3. If the element at mid is 0, swap it with the element at low and increment both low and mid pointers.
+4. If the element at mid is 1, just move the mid pointer to the next element.
+5. If the element at mid is 2, swap it with the element at high and decrement the high pointer.
+6. Repeat steps 3-5 until mid pointer is less than or equal to high pointer.
+
+##Custom sort##
