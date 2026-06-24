@@ -1,6 +1,26 @@
-Need
+
 Bubble Sort, Insertion Sort, Selection Sort Time Complexity:-O(n^2)
 Arrays.sort() used the quick sort, merge sort in the backend O(n logn)
+
+Real-life needs of sorting
+1.Finding information quickly
+  Phone contacts are sorted alphabetically.
+  Library books are arranged by category or author.
+2.Saving time
+  Student records sorted by roll number make attendance faster.
+  Files on a computer sorted by name or date are easier to locate.
+3.Decision making
+  Online shopping websites sort products by price, rating, or popularity.
+  Companies sort job applicants based on qualifications.
+4.Data analysis
+  Businesses sort sales data to identify best-selling products.
+  Hospitals sort patient records to manage treatments efficiently.
+5.Prioritization
+  Emergency rooms sort patients according to the severity of their condition.
+  Task management apps sort tasks by deadline or importance.
+6.Efficient management
+  Warehouses sort goods by type and destination.
+  Postal services sort letters according to addresses.
 
 ##BUBBLE SORT##
 Given an array of n elements:
