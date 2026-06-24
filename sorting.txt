@@ -23,7 +23,7 @@ Real-life needs of sorting
   Postal services sort letters according to addresses.
 
 ##BUBBLE SORT##
-<<<<<<< HEAD
+
 Bubble Sort is a simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order. 
 After each pass, the largest unsorted element "bubbles up" to its correct position.
 
@@ -33,7 +33,7 @@ Space Complexity: O(1)
 Steps
 =======
 Given an array of n elements:
->>>>>>> e9095e2d9211d3770525195ebd1b1d2ae9a05b62
+
 1.Start from the first element.
 2.Compare adjacent elements.
 3.If the left element is greater than the right element, swap them.
@@ -50,7 +50,7 @@ Space Complexity: O(1)
 
 Steps
 =======
->>>>>>> e9095e2d9211d3770525195ebd1b1d2ae9a05b62
+
 1.Assume the first element is already sorted.
 2.Pick the next element (called the key).
 3.Compare the key with elements to its left.
@@ -59,7 +59,7 @@ Steps
 6.Repeat until all elements are sorted.
 
 ##SELECTION SORT##
-<<<<<<< HEAD
+
 Selection Sort is a sorting algorithm that repeatedly finds the smallest element 
 from the unsorted part of the array and places it at the beginning of the sorted part.
 
@@ -68,7 +68,7 @@ Space Complexity: O(1)
 
 Steps
 =======
->>>>>>> e9095e2d9211d3770525195ebd1b1d2ae9a05b62
+
 1.Find the smallest element in the array.
 2.Swap it with the first element.
 3.Find the smallest element in the remaining unsorted array.
@@ -94,14 +94,12 @@ Steps
 4.Return positive/false if b should come before a.
 5.Apply any sorting algorithm (TimSort, Merge Sort, Quick Sort, etc.) using this comparator.
 6.The array is arranged according to the custom rule.
-<<<<<<< HEAD
 
 ##COUNTING SORT##
 Counting Sort is an efficient algorithm for sorting a collection of objects according to keys that are small integers. 
 It operates by counting the number of objects that have each distinct key value, and using arithmetic to determine the position of each key value in the output sequence.
 
 Time Complexity :- O(n)
-
 
 Steps
 1.Find the maximum (and minimum, if needed) element in the array.
